@@ -24,7 +24,9 @@ DAX (measures and KPIs)
 
 # How to Use
  Download the .pbix file
+ 
 Open it using Power BI Desktop
+
 Use filters on Dashboard 1 to control both dashboards
 # Key Insights 
 Higher addiction scores are associated with lower mental health scores
