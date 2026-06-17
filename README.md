@@ -5,15 +5,15 @@ Dashboard 1 – Overview: High-level insights and global patterns
 
 Dashboard 2 – Behavior & Impact: Deep-dive analysis into behavior, platforms, and impacts
 # Objectives
-Measure the average addiction level among students
-Understand how addiction affects:
-Mental health
-Sleep hours
-Academic performance
-Compare addiction levels across:
-Gender
+Measure the average addiction level among students,
+Understand how addiction affects,
+Mental health,
+Sleep hours,
+Academic performance,
+Compare addiction levels across,
+Gender,
 Country
-Social media platforms
+Social media platforms,
 Relationship status
  # Tools & Technologies
 Power BI Desktop
